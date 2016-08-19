@@ -16,26 +16,26 @@ AdminSJMS(Admin Spark Job Manager System) 是一个基于Spark的Job管理软件
 
 #### 详细介绍：
 软件的相关截图和描述:
-HDFS文件系统：对HDFS的各种操作
+#####HDFS文件系统：对HDFS的各种操作
 ![cmd-markdown-logo](image/hdfs.png)
-Spark作业提交：提交作业和显示作业状态等概览
+#####Spark作业提交：提交作业和显示作业状态等概览
 ![cmd-markdown-logo](image/submit.png)
-集群概览：显示集群当前的概览情况
+#####集群概览：显示集群当前的概览情况
 ![cmd-markdown-logo](image/screenshot001.png)
 
-节点列表：显示所有节点状态信息
+#####节点列表：显示所有节点状态信息
 ![cmd-markdown-logo](image/screenshot002.png)
 
-任务管理：显示所有任务状态信息
+#####任务管理：显示所有任务状态信息
 ![cmd-markdown-logo](image/screenshot003.png)
 
-通告通知：所有通告通知列表
+#####通告通知：所有通告通知列表
 ![cmd-markdown-logo](image/screenshot004.png)
 
-个人信息：显示和修改个人信息
+#####个人信息：显示和修改个人信息
 ![cmd-markdown-logo](image/screenshot005.png)
 
-节点管理：显示节点状态信息
+#####节点管理：显示节点状态信息
 ![cmd-markdown-logo](image/screenshot006.png)
 
 ## 项目构建
