@@ -1,0 +1,13 @@
+#数据库相关
+jdbcUrl = jdbc:mysql://172.19.142.178/sjms
+user = lemon
+password = lemon123
+devMode = true
+
+#上传相关
+uploadAvatarPath = /avatar
+uploadAvatarAllowedType = .jpg,.jpeg,.png
+uploadJobPath = /job
+
+#HDFS相关
+HDFSUrl = http://172.19.142.65:8080

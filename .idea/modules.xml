@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ADMIN/ADMIN.iml" filepath="$PROJECT_DIR$/ADMIN/ADMIN.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JAVA-HDFS/JAVA-HDFS.iml" filepath="$PROJECT_DIR$/JAVA-HDFS/JAVA-HDFS.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SJMS.iml" filepath="$PROJECT_DIR$/SJMS.iml" />
+      <module fileurl="file://$PROJECT_DIR$/USERMANGER/USERMANGER.iml" filepath="$PROJECT_DIR$/USERMANGER/USERMANGER.iml" />
+    </modules>
+  </component>
+</project>
