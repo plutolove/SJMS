@@ -3,7 +3,6 @@
 AdminSJMS(Admin Spark Job Manager System) 是一个基于Spark的Job管理软件，你可以通过它管理Spark平台的任务和所有节点。
 本软件可以给所有用户分配HDFS(Hadoop Distributed File System)空间，用户可以操作自己的HDFS文件，并将文件的位置作为Spark任务的数据输入路径。
 本项目是SJMS(Spark Job Manager System)的一个子项目，SJMS项目还包括一个提供给用户的一个Job的提交软件，以及提供Spark和HDFS相关操作的接口的软件。
-本项目所有软件基于MIT协议开源，开源的相关细节可以在最下面的"许可"看到。
 
 #### 项目功能及特点：
 >* 直观简洁的页面
